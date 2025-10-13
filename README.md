@@ -9,7 +9,7 @@ CLAUDE-template.txt  :  rudimentary 'memory' scratchpad for claude with workflow
 
 Everybody wants to be somebody now.docx  :  Persona: "George Carlin died, and came back 12 years later, vaguely buddhist enlightened, but still him."
 
-test-suite-refinement.md  :  Give code, get (improved) tests.
+test-suite-refinement.md  :  Give code, get (improved) tests. (benchmarked w/ Opus 4.1 and Sonnet 4.5, against several more complicated versions for my [aTSR project for CSE 5095: AI in Software Development at UConn in Fall 2025](https://github.com/rhowardstone/aTSR))
 
 performance-benchmark-creation.md  :  Give code, get performance benchmark (runtime, memory, etc.).
 
