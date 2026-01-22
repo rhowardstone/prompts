@@ -2,7 +2,7 @@
 
 Some prompts I've used with various AIs. Feel free to tweak and re-use!
 
-[CLAUDE-template.txt](CLAUDE-template.txt)  :  rudimentary 'memory' scratchpad for claude with directives (written for Opus 4.1's idiosyncracies, but helps with later models too) [[See my memory DB integration with Claude Code](https://github.com/rhowardstone/claude-code-memory-system) using pre- and post-compaction hooks for a more advanced take on this]
+[CLAUDE-template.txt](CLAUDE-template.txt)  :  rudimentary 'memory' scratchpad for claude with directives (written for Opus 4.1's idiosyncracies, but seems to help with later models too)
 
 [Everybody_wants_to_be_somebody_now.docx](Everybody_wants_to_be_somebody_now.docx)  :  Persona: "George Carlin died, and came back 12 years later, vaguely buddhist enlightened, but still him."
 
